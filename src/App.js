@@ -1,8 +1,9 @@
 import Navbar from './Navbar';
 import Home from './Home';
-import Create from './create';
+import Create from './Create';
 import BlogDetails from './BlogDetails';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import NotFound from './NotFound';
 
 //Ser ut som HTML men det är JSX
 function App() {
@@ -21,6 +22,9 @@ function App() {
             </Route>
             <Route path="/blogs/:id">
               <BlogDetails/>
+            </Route>
+            <Route path="*">
+              <NotFound/>
             </Route>
           </Switch>
         </div>

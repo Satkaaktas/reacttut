@@ -1,22 +1,34 @@
 {
-    "blogs": [
-        {
-            "title": "Welcome to Welcome to the internet!",
-            "body": "Welcome to the internet!",
-            "author": "547k4",
-            "id": "1"
-        },
-        {
-            "title": "Have a look around",
-            "body": "Anything that brain of yours can thing of can be found",
-            "author": "Bo",
-            "id": "2"
-        },
-        {
-            "title": "Mountains of content, some better, some worse", 
-            "body": "if none of it is of interest for you you'd be the first", 
-            "author": "Bo",
-            "id": "3"
-        }
-    ]
+  "blogs": [
+    {
+      "title": "Welcome to Welcome to the internet!",
+      "body": "Welcome to the internet!",
+      "author": "547k4",
+      "id": "1"
+    },
+    {
+      "title": "Mountains of content, some better, some worse",
+      "body": "if none of it is of interest for you you'd be the first",
+      "author": "Bo",
+      "id": "3"
+    },
+    {
+      "title": "Testdags",
+      "body": "Jag testar att göra en ny blog",
+      "author": "mario",
+      "id": "vcRBFFw"
+    },
+    {
+      "title": "Testar history",
+      "body": "YESSSSSSSSSSSSSSSS",
+      "author": "mario",
+      "id": "acbOKir"
+    },
+    {
+      "title": "Kommer vi hem nu?",
+      "body": "Vi får se",
+      "author": "mario",
+      "id": "oT-kOko"
+    }
+  ]
 }
